@@ -1,4 +1,4 @@
-**LANGGRAPH**
+## **LANGGRAPH**
 
 This repository contains a series of lessons demonstrating how to build reasoning workflows and agents using **LangChain** and **LangGraph**.
 
@@ -51,6 +51,3 @@ This lesson demonstrates:
 
 
 
-## License
-
-[Add license information here]
