@@ -14,7 +14,7 @@ It takes a natural language instruction like "Add 3 and 4. Multiply the output b
 
 ## LESSON 2: CHAIN
 
-This project demonstrates how to use **LangGraph** with the **Groq API** to build a simple router that processes messages and uses tools like `multiply`.
+This project demonstrates how to use **LangGraph** with the **API** to build a simple router that processes messages and uses tools like `multiply`.
 
 ---
 
