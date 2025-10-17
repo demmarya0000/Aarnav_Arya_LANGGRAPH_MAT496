@@ -69,5 +69,15 @@ This lesson demonstrates:
 
 <img width="1280" height="708" alt="image" src="https://github.com/user-attachments/assets/0d9dff3d-fb72-47e6-9234-0f658853310a" />
 
+---
+
+## MODULE 2
+
+---
+
+#LESSON 1: STATE SCHEMA
+
+
+
 
 
