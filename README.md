@@ -75,7 +75,7 @@ This lesson demonstrates:
 
 ---
 
-#LESSON 1: STATE SCHEMA
+## LESSON 1: STATE SCHEMA
 
 
 
