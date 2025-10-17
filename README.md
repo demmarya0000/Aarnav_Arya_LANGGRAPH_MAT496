@@ -1,7 +1,9 @@
 ## **LANGGRAPH**
 ---
 
-##MODULE 1
+## MODULE 1
+
+---
 
 This repository contains a series of lessons demonstrating how to build reasoning workflows and agents using **LangChain** and **LangGraph**.
 
