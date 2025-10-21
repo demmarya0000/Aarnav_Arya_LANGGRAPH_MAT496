@@ -86,7 +86,7 @@ This lesson demonstrates:
 - Each state key acts as a "channel" that nodes can read from and write to
 - Nodes return dictionaries to update state, regardless of which schema type is used
 
-- SOURCE FILE:
+- SOURCE FILE:https://github.com/langchain-ai/langchain-academy/blob/main/module-2/state-schema.ipynb
 
 ---
 
@@ -98,7 +98,7 @@ This lesson demonstrates:
 - By default, LangGraph overwrites state values with each node update
 - Problem with branching: When nodes run in parallel (same step), both try to overwrite state, causing an InvalidUpdateError
 
-- SOURCE FILE:
+- SOURCE FILE:https://github.com/langchain-ai/langchain-academy/blob/main/module-2/state-reducers.ipynb
 
 ---
 
@@ -111,7 +111,7 @@ This lesson demonstrates:
 - Private State: Pass internal data between nodes that's not needed in final output
 - Input/Output Filtering: Constrain what keys are allowed on graph boundaries
 
-- SOURCE FILE:
+- SOURCE FILE:https://github.com/langchain-ai/langchain-academy/blob/main/module-2/multiple-schemas.ipynb
 
 ---
 
@@ -124,7 +124,7 @@ This lesson demonstrates:
 - Message Filtering: Selecting specific messages to pass to the model
 - Message Trimming: Restricting messages based on token limits
 
-- SOURCE FILE:
+- SOURCE FILE:https://github.com/langchain-ai/langchain-academy/blob/main/module-2/trim-filter-messages.ipynb
 
 ---
 
@@ -137,7 +137,7 @@ This lesson demonstrates:
 - Thread Management: Organizing separate conversation contexts
 - Conditional Logic: Dynamic routing based on conversation length
 
-- SOURCE FILE:
+- SOURCE FILE:https://github.com/langchain-ai/langchain-academy/blob/main/module-2/chatbot-summarization.ipynb
 
 ---
 
@@ -145,7 +145,9 @@ This lesson demonstrates:
 
 -Learned how to implement external checkpointers like SQLite to save each thread’s state, allowing the chatbot to continue conversations with previous context intact and reducing token usage.
 
-- SOUREC FILE:
+- SOUREC FILE:https://github.com/langchain-ai/langchain-academy/blob/main/module-2/chatbot-external-memory.ipynb
+
+---
 
 
 
