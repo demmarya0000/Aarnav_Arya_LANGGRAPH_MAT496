@@ -83,7 +83,6 @@ This lesson demonstrates:
 - Explored three ways to define state: TypedDict, Dataclass, and Pydantic
 - TypedDict and Dataclass provide type hints but don't enforce types at runtime
 - Pydantic performs validation at runtime to ensure data conforms to specified types and constraints
-- Each state key acts as a "channel" that nodes can read from and write to
 - Nodes return dictionaries to update state, regardless of which schema type is used
 
 - SOURCE FILE:https://github.com/langchain-ai/langchain-academy/blob/main/module-2/state-schema.ipynb
@@ -96,7 +95,7 @@ This lesson demonstrates:
 
 - Reducers specify how state updates are performed on specific keys/channels in the state schema
 - By default, LangGraph overwrites state values with each node update
-- Problem with branching: When nodes run in parallel (same step), both try to overwrite state, causing an InvalidUpdateError
+- Problem with branching: When nodes run in parallel (same step), both try to overwrite state, causing an Invalid Update Error
 
 - SOURCE FILE:https://github.com/langchain-ai/langchain-academy/blob/main/module-2/state-reducers.ipynb
 
