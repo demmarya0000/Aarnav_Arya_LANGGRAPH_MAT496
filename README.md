@@ -90,7 +90,7 @@ This lesson demonstrates:
 
 ---
 
-# LESSON 2: STATE REDUCERS 
+## LESSON 2: STATE REDUCERS 
 
 - What We Learned
 
@@ -102,7 +102,7 @@ This lesson demonstrates:
 
 ---
 
-#LESSON 3: MULTIPLE SCHEMA 
+## LESSON 3: MULTIPLE SCHEMA 
 
 - What We Learned:
 
@@ -115,7 +115,7 @@ This lesson demonstrates:
 
 ---
 
-#LESSON 4: TRIM AND FILTERING MESSAGES 
+## LESSON 4: TRIM AND FILTERING MESSAGES 
 
 - What We Learned:
 
@@ -128,7 +128,7 @@ This lesson demonstrates:
 
 ---
 
-#LESSON 5:Chatbot w/ Summarizing Messages and Memory
+## LESSON 5:Chatbot w/ Summarizing Messages and Memory
 
 - What We Learned
 
@@ -141,7 +141,7 @@ This lesson demonstrates:
 
 ---
 
-#LESSON 6:Chatbot w/ Summarizing Messages and External Memory
+## LESSON 6:Chatbot w/ Summarizing Messages and External Memory
 
 -Learned how to implement external checkpointers like SQLite to save each thread’s state, allowing the chatbot to continue conversations with previous context intact and reducing token usage.
 
