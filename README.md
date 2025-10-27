@@ -220,12 +220,14 @@ This lesson demonstrates:
 - BROWSING HISTORY: 
 - Use get_state_history() to see all past checkpoints
 - REPLAYING ->Pass a checkpoint's config to graph.stream() to replay from that point
-- 
+
+
 - FORKING PART:
 - Modify a past checkpoint using update_state() with the checkpoint_id
 - Creates a NEW checkpoint with the changes
 - Like creating "what if" scenarios
-- 
+
+
 ## Diffrence in both of them is:
 - Replay = rerun what already happened
 - Fork = create new branch with modified inputs
