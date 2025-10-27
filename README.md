@@ -142,11 +142,22 @@ This lesson demonstrates:
 
 ## LESSON 6:Chatbot w/ Summarizing Messages and External Memory
 
--Learned how to implement external checkpointers like SQLite to save each thread’s state, allowing the chatbot to continue conversations with previous context intact and reducing token usage.
+- Learned how to implement external checkpointers like SQLite to save each thread’s state, allowing the chatbot to continue conversations with previous context intact and reducing token usage.
 
-- SOUREC FILE:https://github.com/langchain-ai/langchain-academy/blob/main/module-2/chatbot-external-memory.ipynb
+- SOURCE FILE:https://github.com/langchain-ai/langchain-academy/blob/main/module-2/chatbot-external-memory.ipynb
 
 ---
+
+## MODULE 3
+
+---
+
+## LESSON 1:STREAMING 
+
+- 
+
+
+
 
 
 
