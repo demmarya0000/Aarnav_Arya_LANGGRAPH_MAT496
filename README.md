@@ -156,8 +156,8 @@ This lesson demonstrates:
 
 - WHAT We Learned
 
-- Stream Modes: values gives you everything, updates just shows what changed (pretty neat tbh)
-- Token Streaming: This is where you see the AI "typing" word by word like ChatGPT does - way better UX
+- Stream Modes: values gives you everything, updates just shows what changed
+- Token Streaming: This is where you see the AI "typing" word by word like ChatGPT does 
 
 - SOURCE FILE: https://github.com/langchain-ai/langchain-academy/blob/26377bf69b01132c91617878afb51d3eb340f3e1/module-3/streaming-interruption.ipynb
 
