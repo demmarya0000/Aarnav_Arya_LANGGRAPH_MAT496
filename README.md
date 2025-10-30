@@ -236,6 +236,75 @@ This lesson demonstrates:
 
 ---
 
+## MODULE 4 
+
+---
+
+## LESSON 1:PARALLELIZATION
+
+- WHAT WE LEARNED:
+- StateGraph - Graph structure that manages parallel execution
+- State (TypedDict) - Container for graph state with reducers
+- Reducers - Functions that handle concurrent state updates
+
+- CHNAGES MADE: Changed the question from about the Nvidia earning to About who is David Laid? 
+
+- SOURCE FILE:https://github.com/langchain-ai/langchain-academy/blob/main/module-4/parallelization.ipynb
+
+---
+
+## LESSON 2:SUB-GRAPHS
+
+- WHAT WE LEARNED:
+- A two-phase pattern for parallel task processing:
+- Map Phase - Break task into smaller sub-tasks, process in parallel
+- Reduce Phase - Aggregate/combine results from all parallel tasks
+
+- CHANGES MADE: Changed the temperature from 0 to 5 and which would provide random jokes and nonsense talks.
+
+- SOURCE FILE:https://github.com/langchain-ai/langchain-academy/blob/main/module-4/map-reduce.ipynb
+
+---
+
+## LESSON 3:MAP-REDUCE
+
+- WHAT WE LEARNED:
+- A way to create separate state spaces within different parts of your graph - essential for multi-agent systems where each team/agent needs its own state.
+  
+- CHANGES MADE: Changed the question part to how is the llm course, and added answers to it also.
+
+- SOURCE FILE:https://github.com/langchain-ai/langchain-academy/blob/main/module-4/sub-graph.ipynb
+
+---
+
+## LESSON 4:RESEARCH ASSISTANT 
+
+- WHAT WE LEARNED:
+- How to build a multi-agent research system using LangGraph with several key concepts
+- Map-Reduce Pattern: Running multiple interviews in parallel, then combining results
+- Structured Outputs: Using Pydantic models to ensure consistent data formats
+- State Management: Managing complex state across multiple agents and steps
+- Memory/Checkpointing: Saving state to enable interruptions and continuations
+
+- CHANGED ALL THESE THINGS:->
+- MAX ANALYSITS FORM -> 3 TO 5
+- MAX NUM TURNS FROM ->2 TO 4
+- CHNAGED THE TEMPERATURE FROM ->0 TO 2
+
+- SOURCE FILE:https://github.com/langchain-ai/langchain-academy/blob/main/module-4/research-assistant.ipynb
+
+---
+
+## END OF THE README FILE FOR THE LANGGRAPH 
+
+## SIGNING OFF
+
+
+
+
+
+
+
 
 
 
